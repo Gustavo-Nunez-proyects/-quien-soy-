@@ -10,5 +10,4 @@
 ## 📚 ¿Qué estoy aprendiendo y dominando?
 Actualmente estoy enfocado en el aprendizaje continuo y en potenciar mis habilidades técnicas aplicadas a los negocios:
 * 📊 **Análisis de Datos & BI**: Creación de reportes dinámicos y dashboards interactivos con **Excel** y **Power BI**.
-* 🛠️ **Gestión de Base de Datos**: Extracción y manipulación de datos estructurados mediante **SQL**.
-* 📈 **Finanzas cuantitativas**: Modelamiento y evaluación de proyectos de inversión.
+  
