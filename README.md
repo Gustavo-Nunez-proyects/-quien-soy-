@@ -1,4 +1,4 @@
-# ¡Hola! Soy un apasionado por los datos y las finanzas 👋
+¡ Quien soy?Soy un apasionado por los datos y las finanzas 
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy **Estudiante de Ingeniería Comercial próximo a titularse (diciembre 2026)**. Me motiva profundamente transformar datos en decisiones estratégicas y optimizar procesos en el sector financiero.
 
