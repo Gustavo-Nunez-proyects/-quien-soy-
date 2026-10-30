@@ -7,7 +7,7 @@
 * **Fortalezas**: Me destaco por mis habilidades de coordinación, liderazgo estudiantil, trabajo en equipo y una fuerte orientación a la resolución de problemas de manera analítica.
 * **Intereses**: Áreas de finanzas, inversiones, análisis de datos y banca.
 
-## 📚 ¿Qué estoy aprendiendo y dominando?
+##  ¿Qué estoy aprendiendo y dominando?
 Actualmente estoy enfocado en el aprendizaje continuo y en potenciar mis habilidades técnicas aplicadas a los negocios:
 * 📊 **Análisis de Datos & BI**: Creación de reportes dinámicos y dashboards interactivos con **Excel** y **Power BI**.
 * Python**: Desarrollo de scripts para automatización, limpieza de datos y análisis cuantitativo (Pandas, NumPy).
